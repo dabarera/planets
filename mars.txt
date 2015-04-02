@@ -2,5 +2,5 @@ Cold and dry, but everything is my favourite color.
 The two moons may be a problem for Trouble. 
 Add this line after adding .dat and .out files. 
 It is some planet... 
-Added this later... 
-WE ADDED A DIFFERENT LINE IN THE FIRST AUTHOR COPY 
+SECOND authour line
+
